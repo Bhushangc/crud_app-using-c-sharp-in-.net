@@ -1,0 +1,8 @@
+D:\save_files\c#\basic_crud\basic_crud\obj\Debug\basic_crud.csproj.AssemblyReference.cache
+D:\save_files\c#\basic_crud\basic_crud\obj\Debug\basic_crud.csproj.SuggestedBindingRedirects.cache
+D:\save_files\c#\basic_crud\basic_crud\obj\Debug\basic_crud.csproj.CoreCompileInputs.cache
+D:\save_files\c#\basic_crud\basic_crud\bin\Debug\basic_crud.exe.config
+D:\save_files\c#\basic_crud\basic_crud\bin\Debug\basic_crud.exe
+D:\save_files\c#\basic_crud\basic_crud\bin\Debug\basic_crud.pdb
+D:\save_files\c#\basic_crud\basic_crud\obj\Debug\basic_crud.exe
+D:\save_files\c#\basic_crud\basic_crud\obj\Debug\basic_crud.pdb
